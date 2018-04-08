@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shulme801/udemy-react/issues"
   },
-  "homepage": "https://github.com/shulme801/udemy-react#readme"
+  "homepage": "https://github.com/shulme801/udemy-react#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
 }
