@@ -7,5 +7,6 @@ console.log(vals);
 
 //ES2017 and onwards
 //use ...
+// blah blah
 const values = Object.values(cars);
 console.log(values);
